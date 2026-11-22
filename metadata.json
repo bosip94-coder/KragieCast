@@ -1,0 +1,6 @@
+{
+  "name": "KragieCast AI",
+  "description": "Platform Smart Live Broadcasting & Commerce Analytics berbasis AI untuk UMKM Indonesia oleh PT Kragie Media Indonesia.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
